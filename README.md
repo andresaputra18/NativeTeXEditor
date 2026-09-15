@@ -50,4 +50,6 @@ A compatible Qt 6 MSVC toolchain and a local TeX distribution are required.
 
 This repository is publicly visible for project demonstration, technical evaluation, and development transparency.
 
-NativeTeXEditor is still under active development and is currently maintained privately by its author. No open-source license has been selected or granted at this stage of development. Licensing options will be evaluated as the project approaches a more mature public release. Unless explicitly stated otherwise, all rights are reserved.
+NativeTeXEditor is still under active development. The application is intended to be free to use when it reaches a public release, particularly for scientific and technical writing workflows.
+
+An open-source license has not yet been selected and will be evaluated as the project approaches a more mature public release. Until then, all rights are reserved.
