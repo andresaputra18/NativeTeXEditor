@@ -1,5 +1,7 @@
 # NativeTeXEditor
 
+> **Note:** `NativeTeXEditor` is a working project name and may change as the application moves toward a public release.
+
 NativeTeXEditor is an experimental native TeX/LaTeX editor for scientific and technical writing. It is being developed as a fast, local-first alternative focused on responsive editing, reliable TeX compilation, native PDF preview, and source/PDF synchronization.
 
 The project is currently developed and maintained by a single developer with a background primarily in theoretical physics and data science. It is motivated by practical needs encountered when working with large and technical LaTeX documents.
